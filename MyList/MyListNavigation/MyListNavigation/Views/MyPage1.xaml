@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MyListNavigation.Views.MyPage1">
+    <ContentPage.Content>
+        <StackLayout HorizontalOptions="Center">
+
+            <Label x:Name="FirstName" HorizontalTextAlignment="Center" TextColor="Black" FontSize="Large"/>
+            <Label x:Name="Age" TextColor="Black" FontSize="Medium" HorizontalTextAlignment="Center"/>
+            <Label x:Name="City" TextColor="Black" FontSize="Medium" HorizontalTextAlignment="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\bin\Debug\netstandard2.0\MyList.deps.json
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\bin\Debug\netstandard2.0\MyList.dll
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\bin\Debug\netstandard2.0\MyList.pdb
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\MyList.csprojAssemblyReference.cache
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\Views\MyListPage.xaml.g.cs
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\Views\MyPage1.xaml.g.cs
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\MyList.csproj.CoreCompileInputs.cache
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\MyList.AssemblyInfoInputs.cache
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\MyList.AssemblyInfo.cs
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\MyList.dll
+C:\Users\Pocisk\source\repos\MyListNavigation\MyListNavigation\MyListNavigation\obj\Debug\netstandard2.0\MyList.pdb
